@@ -84,7 +84,7 @@ DATABASES = {
             'PORT'     : 3306,
             'NAME'     : 'shopbridge_db',
             'USER'     : 'prashant',
-            'PASSWORD' : 'Prashant@1145',
+            'PASSWORD' : 'my_password',
         }
 }
 
