@@ -1,6 +1,10 @@
 # Shopbridge - Inventory API's
 ShopBridge is an e-commerce application
 
+## API Documentation URL(Swagger)
+```
+base_url/api/doc/
+```
 
 ## Backend Installation
 
