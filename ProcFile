@@ -1,1 +1,0 @@
-web: gunicorn shopbridge_backend.wsgi
